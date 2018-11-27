@@ -1,0 +1,7 @@
+C:\MyComputer\Document\VSProjects\CMS\Test\bin\Debug\Test.exe.config
+C:\MyComputer\Document\VSProjects\CMS\Test\bin\Debug\Test.exe
+C:\MyComputer\Document\VSProjects\CMS\Test\bin\Debug\Test.pdb
+C:\MyComputer\Document\VSProjects\CMS\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\MyComputer\Document\VSProjects\CMS\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\MyComputer\Document\VSProjects\CMS\Test\obj\Debug\Test.exe
+C:\MyComputer\Document\VSProjects\CMS\Test\obj\Debug\Test.pdb
